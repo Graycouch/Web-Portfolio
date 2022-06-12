@@ -38,7 +38,7 @@ const SKILLS = styled(NavLink)`
 color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
 position: absolute;
 top: 3%;
-left: 38%;
+left: 36%;
 z-index: 1;
 text-decoration: none;
 @media only screen and (max-width: 50em) {
