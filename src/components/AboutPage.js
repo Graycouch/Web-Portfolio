@@ -176,7 +176,7 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            • I  currently reside in Baton Rouge, Louisiana and attend Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
+            • I  currently reside in Baton Rouge, Louisiana while attending Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
             <br /><br />
 
             • Other than my coursework, I am currently working as a Software Engineering Intern at the JP Morgan Chase Houston office. Also, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked on a Gesture Controlled Robotic Arm Project
