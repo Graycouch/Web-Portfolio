@@ -47,7 +47,7 @@ const Experience = styled(NavLink)`
   color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
   position: absolute;
   top: 4%;
-  left: 23%;
+  left: 18%;
   z-index: 1;
   text-decoration: none;
   @media only screen and (max-width: 50em) {
@@ -56,17 +56,6 @@ const Experience = styled(NavLink)`
 `;
 
 const ABOUT = styled(NavLink)`
-color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
-position: absolute;
-top: 4%;
-left: 38%;
-z-index: 1;
-text-decoration: none;
-@media only screen and (max-width: 50em) {
-  text-shadow: ${(props) => (props.click ? "0 0 4px #000" : "none")};
-`;
-
-const SKILLS = styled(NavLink)`
 color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
 position: absolute;
 top: 4%;
@@ -81,7 +70,7 @@ const PROJECTS = styled(NavLink)`
 color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
 position: absolute;
 top: 4%;
-left: 70%;
+left: 75%;
 z-index: 1;
 text-decoration: none;
 @media only screen and (max-width: 50em) {
@@ -248,11 +237,11 @@ const MySkillsPage = () => {
             </motion.h2>
           </ABOUT>
 
-          <SKILLS to="/skills">
+          <PROJECTS click={+click} to="/projects">
             <motion.h2
-              onClick={() => setpath("skills")}
+              onClick={() => setpath("projects")}
               initial={{
-                y: 200,
+                y: -200,
                 transition: { type: "spring", duration: 1.5, delay: 1 },
               }}
               animate={{
@@ -262,44 +251,9 @@ const MySkillsPage = () => {
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
             >
-              Skills
+              Projects
             </motion.h2>
-          </SKILLS>
-
-          {mq ? (
-            <PROJECTS click={+click} onClick={() => setpath("projects")} to="/projects">
-              <motion.h2
-                initial={{
-                  y: -200,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                animate={{
-                  y: 0,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-              >
-              </motion.h2>
-            </PROJECTS>
-          ) : (
-            <PROJECTS click={+false} onClick={() => setpath("projects")} to="/projects">
-              <motion.h2
-                initial={{
-                  y: -200,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                animate={{
-                  y: 0,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-              >
-                Projects
-              </motion.h2>
-            </PROJECTS>
-          )}
+          </PROJECTS>
 
           <PowerButton />
           <SocialIcons theme="light" />

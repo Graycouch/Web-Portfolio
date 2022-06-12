@@ -265,40 +265,23 @@ const Main = () => {
             </Contact>
           )}
 
-          {mq ? (
-            <PROJECTS click={+click} onClick={() => setpath("projects")} to="/projects">
-              <motion.h2
-                initial={{
-                  y: -200,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                animate={{
-                  y: 0,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-              >
-              </motion.h2>
-            </PROJECTS>
-          ) : (
-            <PROJECTS click={+false} onClick={() => setpath("projects")} to="/projects">
-              <motion.h2
-                initial={{
-                  y: -200,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                animate={{
-                  y: 0,
-                  transition: { type: "spring", duration: 1.5, delay: 1 },
-                }}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-              >
-                Projects
-              </motion.h2>
-            </PROJECTS>
-          )}
+          <PROJECTS click={+click} to="/projects">
+            <motion.h2
+              onClick={() => setpath("projects")}
+              initial={{
+                y: -200,
+                transition: { type: "spring", duration: 1.5, delay: 1 },
+              }}
+              animate={{
+                y: 0,
+                transition: { type: "spring", duration: 1.5, delay: 1 },
+              }}
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.9 }}
+            >
+              Projects
+            </motion.h2>
+          </PROJECTS>
 
           <Experience click={+click} to="/experience">
             <motion.h2
