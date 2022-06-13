@@ -14,7 +14,7 @@ export const Work = [
     {
         id:3,
         name:"Research Scholar",
-        description:"Worked in Dr. Chen Wang’s Mobile and Internet Security Lab on a Gesture Controlled Robotic Hand Project, whilealso assisting fellow researchers with their projects",
+        description:"Worked in Dr. Chen Wang’s Mobile and Internet Security Lab on a Gesture Controlled Robotic Hand Project, while also assisting fellow researchers with their projects",
         tags:["From: Dec 2020 - May 2021"],
     },
 ] 
