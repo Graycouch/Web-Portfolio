@@ -190,7 +190,7 @@ const Intro = () => {
   useEffect(() => {
     init(textRef.current, {
       showCursor: false, 
-      strings: ["Software Engineer", "Research Scholar", "LSU Tiger", "Computer Scientist", "Avid Gamer"]
+      strings: ["Software Engineer", "Research Scholar", "LSU Tiger", "Computer Scientist", "Avid Gamer", "Anime Connoisseur"]
     });
   }, []);
 
