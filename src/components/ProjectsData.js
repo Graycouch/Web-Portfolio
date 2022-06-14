@@ -2,8 +2,8 @@ export const Work = [
     {
         id:1,
         name:"Gamehub",
-        description:"Facebook Clone that allows you to make an account, follow other people, post images, and message your friends",
-        tags:["React","Javascript","MongoDB", "Socket.io", "Node.js"],
+        description:"Full-Stack Facebook Clone that allows you to make an account, follow other people, post images, and message your friends",
+        tags:["React","Javascript","MongoDB", "Socket.io", "Node.js", "Express"],
         
         demo:"https://github.com/Graycouch/Gamehub",
         github:"https://github.com/Graycouch/Gamehub"
