@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:"Chase Software Engieering Intern",
-        description:"Currently working as an intern under the management of Raghu Salgame at the Houston Chase Tower",
+        description:"Created a Full-Stack Web Application from scratch that allows conflicts officers to view different types of conflicts of interests from across the firm and deal with them accordingly",
         tags:["From: June 2022 - August 2022"],
     },
     {
