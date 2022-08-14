@@ -179,7 +179,7 @@ const AboutPage = () => {
             • I  currently reside in Baton Rouge, Louisiana while attending Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
             <br /><br />
 
-            • Other than my coursework, I am currently working as a Software Engineering Intern at the JP Morgan Chase Houston office. Also, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked on a Gesture Controlled Robotic Arm Project
+            • Other than my coursework, I worked as a Software Engineering Intern at the JP Morgan Chase Houston Tech Center under the management of Raghunath Salgame during the summer of 2022. Also, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked on the Gesture Controlled Robotic Arm Project
             <br /><br />
 
             • As for my hobbies, I enjoy hanging out with my family, working out, coding, and playing video games to name a few
