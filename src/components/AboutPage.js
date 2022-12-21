@@ -61,7 +61,7 @@ const Main = styled(motion.div)`
   color: ${(props) => props.theme.text};
   padding: 2rem;
   width: 80vw;
-  height: 100vh;
+  height: 70vh;
   z-index: 3;
   line-height: 1.5;
   display: flex;
@@ -186,12 +186,6 @@ const AboutPage = () => {
             <br /><br />
 
             • I also interned as a Software Engineer at the JP Morgan Chase Houston Tech Center during the summer of 2022, where I worked on modernizing a full stack web application utilizing technologies such as TypeScript, React.js, Java, and JUnit
-            <br /><br />
-
-            • Additionally, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked alongside undergraduate and graduate level students while developing a Gesture Controlled Robotic Arm project using technologies such as Python, C, Arduino, and Leap Motion
-            <br /><br />
-
-            • Some of the programming languages and technologies that I'm most proficient in are Java, C, Python, SQL, JavaScript, Node.js, React.js, HTML5, and CSS among many others
             <br /><br />
 
             • Thanks for stopping by and feel free to contact me!!
