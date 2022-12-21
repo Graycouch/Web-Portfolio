@@ -261,7 +261,7 @@ const MySkillsPage = () => {
 
           <Main>
             <Title>
-              <Develope width={40} height={40} /> Programming Languages and Frameworks
+              <Develope width={40} height={40} /> Languages and Frameworks
             </Title>
             <Description>
               • Java
@@ -310,7 +310,7 @@ const MySkillsPage = () => {
               <br />
               • MySQL
               <br />
-              • jQuery
+              • Spring Boot
               <br />
               • Postman API
               <br />

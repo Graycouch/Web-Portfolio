@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:" Software Engineering Intern",
-        description:"Working on an AutoPay feature that keeps track of the duration a user is parked and allows the user to automatically pay for a parking spot once they leave",
+        description:"Creating an AutoPay feature that tracks the duration a user is parked and allows the user to automatically pay for a parking spot once they leave",
         tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: October 2022 - Present"],
     },
     {
