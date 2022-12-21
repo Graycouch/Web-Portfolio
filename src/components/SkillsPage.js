@@ -261,7 +261,7 @@ const MySkillsPage = () => {
 
           <Main>
             <Title>
-              <Develope width={40} height={40} /> Programming Languages and Frameworks
+              <Develope width={40} height={50} /> Programming Languages and Frameworks
             </Title>
             <Description>
               • Java
@@ -291,7 +291,7 @@ const MySkillsPage = () => {
           </Main>
           <Main>
             <Title>
-              <Design width={40} height={40} /> Technologies
+              <Design width={40} height={50} /> Technologies
             </Title>
             <Description>
               • AWS
