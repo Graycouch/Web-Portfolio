@@ -83,7 +83,7 @@ const Main = styled(motion.div)`
   background-color: ${(props) => props.theme.body};
   padding: 2rem;
   width: 30vw;
-  height: 60vh;
+  height: 70vh;
   z-index: 3;
   line-height: 1.5;
 
@@ -261,7 +261,7 @@ const MySkillsPage = () => {
 
           <Main>
             <Title>
-              <Develope width={40} height={50} /> Programming Languages and Frameworks
+              <Develope width={40} height={40} /> Programming Languages and Frameworks
             </Title>
             <Description>
               • Java
@@ -291,7 +291,7 @@ const MySkillsPage = () => {
           </Main>
           <Main>
             <Title>
-              <Design width={40} height={50} /> Technologies
+              <Design width={40} height={40} /> Technologies
             </Title>
             <Description>
               • AWS
