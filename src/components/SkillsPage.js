@@ -261,28 +261,30 @@ const MySkillsPage = () => {
 
           <Main>
             <Title>
-              <Develope width={40} height={40} /> Programming Languages
+              <Develope width={40} height={40} /> Programming Languages and Frameworks
             </Title>
             <Description>
               • Java
               <br />
               • Python
               <br />
-              • JavaScript
-              <br />
               • SQL
               <br />
-              • C
+              • C / C++
               <br />
-              • C++
+              • C#
               <br />
-              • HTML
+              • JavaScript / TypeScript
+              <br />
+              • React.js / React Native
+              <br />
+              • Node.js
+              <br />
+              • Express.js
+              <br />
+              • HTML5
               <br />
               • CSS
-              <br />
-              • LaTeX
-              <br />
-              • MATLAB
               <br />
               <br />
             </Description>
@@ -296,17 +298,23 @@ const MySkillsPage = () => {
               <br />
               • Git
               <br />
+              • Firebase
+              <br />
+              • JUnit
+              <br />
+              • MongoDB
+              <br />
+              • Cloud Firestore
+              <br />
               • PostgreSQL
               <br />
               • MySQL
               <br />
-              • React
+              • jQuery
               <br />
-              • OpenCV
+              • Postman API
               <br />
-              • Windows and Linux CLI
-              <br />
-              • Arduino
+              • Swagger API
               <br />
               <br />
               <br />

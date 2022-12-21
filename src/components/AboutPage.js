@@ -176,13 +176,25 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            • I  currently reside in Baton Rouge, Louisiana while attending Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
+            • I currently reside in Baton Rouge, Louisiana while attending Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
             <br /><br />
 
-            • Other than my coursework, I worked as a Software Engineering Intern at the JP Morgan Chase Houston Tech Center under the management of Raghunath Salgame during the summer of 2022. Also, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked on the Gesture Controlled Robotic Arm Project
+            • Due to my academic achievements, I've been recently selected as a CyberCorps SFS scholar by the National Science Foundation and I've also been chosen to be a part of Halliburton's scholars program
             <br /><br />
 
-            • As for my hobbies, I enjoy hanging out with my family, working out, coding, and playing video games to name a few
+            • Other than my coursework, I am currently working as a Software Engineering Intern for a small start-up based out of Baton Rouge called ParkZen, where I'm developing an AutoPay feature for our Mobile App using technologies such as JavaScript, Node.js, Express.js, Firebase, and Java
+            <br /><br />
+
+            • I also interned as a Software Engineer at the JP Morgan Chase Houston Tech Center during the summer of 2022, where I worked on modernizing a full stack web application utilizing technologies such as TypeScript, React.js, Java, and JUnit
+            <br /><br />
+
+            • Additionally, during the summer of 2021, I researched under Dr. Chen Wang in his Mobile and Internet Security Lab where I worked alongside undergraduate and graduate level students while developing a Gesture Controlled Robotic Arm project using technologies such as Python, C, Arduino, and Leap Motion
+            <br /><br />
+
+            • Some of the programming languages and technologies that I'm most proficient in are Java, C, Python, SQL, JavaScript, Node.js, React.js, HTML5, and CSS among many others
+            <br /><br />
+
+            • Thanks for stopping by and feel free to contact me!!
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>
