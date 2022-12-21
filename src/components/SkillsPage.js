@@ -83,7 +83,7 @@ const Main = styled(motion.div)`
   background-color: ${(props) => props.theme.body};
   padding: 2rem;
   width: 30vw;
-  height: 70vh;
+  height: 65vh;
   z-index: 3;
   line-height: 1.5;
 
