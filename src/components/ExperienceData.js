@@ -3,13 +3,13 @@ export const Work = [
         id:1,
         name:" Software Engineering Intern",
         description:"Creating an AutoPay feature that tracks the duration a user is parked and allows the user to automatically pay for a parking spot once they leave",
-        tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: October 2022 - Present"],
+        tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: Oct 2022 - Present"],
     },
     {
         id:2,
         name:" Software Engineering Intern",
         description:"Created a Full-Stack Web Application from scratch that allows conflicts officers to view different types of conflicts of interests from across the firm and deal with them accordingly",
-        tags:["Company: JPMorgan Chase", "Location: Houston, TX", "From: June 2022 - August 2022"],
+        tags:["Company: JPMorgan Chase", "Location: Houston, TX", "From: June 2022 - Aug 2022"],
     },
     {
         id:3,
