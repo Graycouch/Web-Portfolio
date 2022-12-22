@@ -20,7 +20,7 @@ export const Work = [
     {
         id:4,
         name:"Research Scholar",
-        description:"Conducted research in Dr. Chen Wang's Mobile and Internet Security Lab on a gesture controlled robotic arm project, while also assisting fellow researchers with their projects",
+        description:"Conducted research in Dr. Chen Wang's Mobile and Internet Security Lab on a Gesture Controlled Robotic Arm project, while also assisting fellow researchers with their projects",
         tags:["Company: LSU", "Location: Baton Rouge, LA", "From: Dec 2020 - May 2021"],
     }
 ] 
