@@ -3,7 +3,7 @@ export const Work = [
         id:1,
         name:" Cyber Operations Researcher",
         description:"Currently undergoing extensive training to improve my skill set",
-        tags:["Company: MIT Lincoln Laboratory", "Location: Lexington, MA", "From: Oct 2023 - Present"],
+        tags:["Company: MIT LL", "Location: Lexington, MA", "From: Oct 2023 - Present"],
     },
     {
         id:2,
@@ -21,7 +21,7 @@ export const Work = [
         id:4,
         name:" Software Engineering Intern",
         description:"Created a Full-Stack Web Application from scratch that allows conflicts officers to view different types of conflicts of interests from across the firm and deal with them accordingly",
-        tags:["Company: JPMorgan Chase & Co", "Location: Houston, TX", "From: June 2022 - Aug 2022"],
+        tags:["Company: JPMorgan Chase", "Location: Houston, TX", "From: June 2022 - Aug 2022"],
     },
     {
         id:5,
