@@ -8,7 +8,7 @@ export const Work = [
     {
         id:2,
         name:" Software Engineer",
-        description:"Built many small-scale microservices that assisted in record keeping and managing employee data as part of a company internal full-stack coding challenge",
+        description:"Built many small-scale microservices that assisted in record keeping and managing employee data as part of an IBM internal full-stack coding challenge",
         tags:["Company: IBM", "Location: Baton Rouge, LA", "From: July 2023 - Oct 2023"],
     },
     {
