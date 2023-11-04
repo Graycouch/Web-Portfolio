@@ -176,19 +176,7 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            • I currently reside in Baton Rouge, Louisiana while attending Louisiana State University and pursuing a Bachelor's of Science in Computer Science with a concentration in Cybersecurity (May 2023)
-            <br /><br />
-
-            • Due to my academic achievements, I've been recently selected as a CyberCorps SFS scholar by the National Science Foundation and I've also been chosen to be a part of Halliburton's scholars program
-            <br /><br />
-
-            • Other than my coursework, I am currently working as a Software Engineering Intern for a small start-up based out of Baton Rouge called ParkZen, where I'm developing an AutoPay feature for our Mobile App using technologies such as JavaScript, Node.js, Express.js, Firebase, and Java
-            <br /><br />
-
-            • I also interned as a Software Engineer at the JP Morgan Chase Houston Tech Center during the summer of 2022, where I worked on modernizing a full stack web application utilizing technologies such as TypeScript, React.js, Java, and JUnit
-            <br /><br />
-
-            • Thanks for stopping by and feel free to contact me!!
+            Thanks for stopping by! Feel free to contact me anytime!
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>

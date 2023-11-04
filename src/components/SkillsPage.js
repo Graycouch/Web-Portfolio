@@ -317,8 +317,6 @@ const MySkillsPage = () => {
               • Swagger API
               <br />
               <br />
-              <br />
-              <br />
             </Description>
           </Main>
           <BigTitle text="Skills" top="80%" right="30%" />
