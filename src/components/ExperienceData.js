@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:" Cyber Operations Researcher",
-        description:"Currently undergoing extensive training to improve my skill set",
+        description:"Designed and developed RESTful APIs using multiple languages and frameworks, including Rust with the Actix framework, Java Spring Boot, and Python",
         tags:["Company: MIT LL", "Location: Lexington, MA", "From: Oct 2023 - Present"],
     },
     {
