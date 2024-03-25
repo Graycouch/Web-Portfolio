@@ -176,7 +176,7 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            Thanks for stopping by! Feel free to contact me anytime!
+            Thanks for stopping by! Feel free to contact me anytime :)
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>
