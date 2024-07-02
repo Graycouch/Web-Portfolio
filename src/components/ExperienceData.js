@@ -13,7 +13,7 @@ export const Work = [
     },
     {
         id:3,
-        name:" Software Engineering Intern",
+        name:" Software Engineer",
         description:"Created an AutoPay feature that tracks the duration a user is parked and allows the user to automatically pay for a parking spot once they leave",
         tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: Oct 2022 - June 2023"],
     },
