@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:" Cyber Operations Researcher",
-        description:"Designing and developing REST APIs using multiple languages and frameworks including Rust with the Actix framework, Java Spring Boot, and Python",
+        description:"Designing and developing REST API endpoints using multiple languages and frameworks including Rust with the Actix framework, Java Spring Boot, and Python",
         tags:["Company: MIT LL", "Location: Lexington, MA", "From: Oct 2023 - Present"],
     },
     {
@@ -15,7 +15,7 @@ export const Work = [
         id:3,
         name:" Software Engineer",
         description:"Created an AutoPay feature that tracks the duration a user is parked and allows the user to automatically pay for a parking spot once they leave",
-        tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: Oct 2022 - June 2023"],
+        tags:["Company: ParkZen", "Location: Baton Rouge, LA", "From: Oct 2022 - July 2023"],
     },
     {
         id:4,
