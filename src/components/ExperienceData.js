@@ -1,7 +1,7 @@
 export const Work = [
     {
         id:1,
-        name:" Software Engineer",
+        name:" Cyber Operations Researcher",
         description:"Designed and implemented secure REST API endpoints in Rust Actix Web, Java Spring Boot, and Python which helped enhance cybersecurity capabilities for mission-critical systems",
         tags:["Company: MIT LL", "Location: Lexington, MA", "From: Oct 2023 - Present"],
     },
