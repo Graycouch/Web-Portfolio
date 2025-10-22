@@ -17,7 +17,7 @@ export const Work = [
         demo:"https://github.com/Graycouch/Web-Portfolio",
         github:"https://github.com/Graycouch/Web-Portfolio"
         
-    }
+    },
     {
         id:3,
         name:"GameHub",
@@ -26,7 +26,7 @@ export const Work = [
         
         demo:"https://github.com/Graycouch/Gamehub",
         github:"https://github.com/Graycouch/Gamehub"
-    },,
+    },
     {
         id:4,
         name:"Gesture Controlled Robotic Hand",
